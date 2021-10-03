@@ -3,12 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/CalculateAge-1/app/src/main/res/drawable/custom_background.xml" value="0.1" />
+        <entry key="..\:/CalculateAge-1/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CalculateAge/app/src/main/res/layout/activity_birthday_card.xml" value="0.17300724637681159" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/CalculateAge/app/src/main/res/layout/activity_main.xml" value="0.17300724637681159" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
