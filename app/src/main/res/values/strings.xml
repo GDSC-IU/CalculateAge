@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Calculate Age</string>
+    <string name="calculate_your_age">Calculate Your Age</string>
+    <string name="and_create_a_birthday_card">And Create a Birthday Card</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="total_year">Total Year</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="select_date">Select Date</string>
 </resources>
